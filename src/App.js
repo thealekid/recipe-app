@@ -23,7 +23,7 @@ const App = () => {
       >
       {counter}
       </button>
-      <h1>Test</h1>
+      
     </form>
     </div>
   )
